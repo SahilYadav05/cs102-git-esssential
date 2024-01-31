@@ -1,0 +1,9 @@
+git rev-parse --abbrev-ref HEAD :- To know the current branch
+git status:- To see the current status of the repository
+git remote -v:-check whether the remote origin is already be setup
+git rev-parse --abbrev-ref HEAD :- To know the current branch
+git log --oneline --decorate --graph --all :- or a better visualization of your repository with all commits and details
+,
+
+
+in this lecture we learned about a important tool which is github. it is very essential tool for developer. it is used for storing codes which can also be used by some other user.
